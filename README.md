@@ -1,2 +1,2 @@
-# MetaMapp_Classy
+# MetaMapp (Classy Edition)
 MetaMapp with ClassyFire classification
